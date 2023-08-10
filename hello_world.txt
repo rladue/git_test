@@ -1,1 +1,2 @@
 This is a Hello World text file for the Odin Project lessons!
+Adding a second line to the text file to test commenting with Visual Studio Code.
